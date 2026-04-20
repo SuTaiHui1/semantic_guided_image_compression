@@ -1,0 +1,4 @@
+﻿Folder,Sample,Role,PSNR,SSIM,LPIPS,FID
+original_kodak24,kodim06t.jpg,Reference,--,--,--,--
+baseline_recon,kodim06t.jpg,Baseline,34.45,0.9488,0.0194,51.71
+enhanced_recon,kodim06t.jpg,Enhanced,35.01,0.9543,0.0132,43.05

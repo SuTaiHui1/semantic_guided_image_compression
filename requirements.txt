@@ -1,0 +1,14 @@
+torch>=2.0.0
+torchvision>=0.15.0
+compressai>=1.2.4
+clip @ git+https://github.com/openai/CLIP.git
+scikit-image>=0.21.0
+lpips>=0.1.4
+pytorch-fid>=0.3.0
+Pillow>=10.0.0
+tqdm>=4.66.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+scipy>=1.10.0
+ftfy>=6.1.1
+regex>=2023.0.0

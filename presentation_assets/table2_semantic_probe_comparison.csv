@@ -1,0 +1,5 @@
+﻿Folder,Sample,PSNR,SSIM,LPIPS,FID
+probe_clip,kodim16t.jpg,37.22,0.9663,0.0120,43.09
+probe_shuffle,kodim16t.jpg,36.72,0.9662,0.0128,40.50
+probe_zeros,kodim16t.jpg,35.36,0.9596,0.0148,48.66
+probe_random,kodim16t.jpg,35.71,0.9603,0.0146,51.06
